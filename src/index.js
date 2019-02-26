@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
+/* Adding comment to learn syncing the repositories */
 
   function Square(props) {
     return (
